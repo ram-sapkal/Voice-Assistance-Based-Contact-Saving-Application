@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/drawable/btnbackground.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/drawable/customborder.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/drawable/floatingactionbtn.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/drawable/ic_baseline_keyboard_voice_24.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/drawable/photo.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/layout/activity_add_contact.xml" value="0.1921875" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/layout/activity_edit_contact.xml" value="0.1921875" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/layout/activity_splash_screen.xml" value="0.1921875" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/layout/contact_card.xml" value="0.16" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/layout/mail.xml" value="0.1921875" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/layout/message_layout.xml" value="0.1921875" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/menu/menu.xml" value="0.1921875" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList - Copy/app/src/main/res/menu/msearch.xml" value="0.1921875" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList/app/src/main/res/drawable/contact_card.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList/app/src/main/res/layout/activity_add_contact.xml" value="0.1921875" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList/app/src/main/res/layout/activity_main.xml" value="0.178125" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList/app/src/main/res/layout/activity_splash_screen.xml" value="0.1921875" />
+        <entry key="..\:/Users/ramja/AndroidStudioProjects/ContactList/app/src/main/res/layout/contact_card.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
